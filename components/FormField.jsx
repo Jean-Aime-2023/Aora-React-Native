@@ -28,5 +28,4 @@ const FormField = ({ title, value, placeholder, handleChangeText, otherStyles, k
 }
 
 
-
 export default FormField
